@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ezzeldin Mohamed Mohamed! 💻🚀
 
-<!--
-**Ezz24Mohamed/Ezz24Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer | Laravel Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+🌟 Passionate about building efficient and scalable backend solutions using Laravel, MySQL, and modern web technologies. Constantly learning, improving, and exploring new tools to craft seamless applications!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Tools  
+
+| 🌟 Skill         | ⚡ Technology            |
+|-----------------|------------------------|
+| **Backend**     | Laravel, PHP           |
+| **Frontend**    | HTML, CSS, JavaScript, AJAX |
+| **Database**    | MySQL                  |
+| **APIs**        | RESTful APIs, Postman  |
+| **Security & Auth** | Spatie (Roles & Permissions) |
+| **Data Handling** | Maatwebsite (Excel)  |
+| **Charts & Analytics** | Chart.js        |
+| **Version Control** | Git & GitHub       |
+
