@@ -24,6 +24,8 @@ A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for
 
 ## 🔗 Let's Connect!  
 
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ezz-eldin-mohamed-70b154219/)  
-📧 **Email:** [your-email@example.com](ezzeldinmohamed025@gmail.com)  
+🌍 **Portfolio:** _Coming Soon..._  
+💼 **LinkedIn:** [Ezzeldin Mohamed Mohamed](https://www.linkedin.com/in/ezz-eldin-mohamed-70b154219/)  
+📧 **Email:** [ezzeldinmohamed025@gmail.com](mailto:ezzeldinmohamed025@gmail.com)  
+
 
