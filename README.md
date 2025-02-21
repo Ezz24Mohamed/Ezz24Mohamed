@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ezzeldin Mohamed Mohamed! 💻🚀
 
-## Backend Developer | Laravel Enthusiast 
+## 💻 Backend Developer | Laravel Enthusiast 
 
 ## 🌟About Me
 
