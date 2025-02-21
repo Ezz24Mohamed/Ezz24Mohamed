@@ -21,3 +21,9 @@
 
 ### [📄 Invoices Management System 🔍](https://github.com/Ezz24Mohamed/Invoices-laraval-project)  
 A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for efficient invoice tracking and management.  
+
+## 🔗 Let's Connect!  
+
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ezz-eldin-mohamed-70b154219/)  
+📧 **Email:** [your-email@example.com](ezzeldinmohamed025@gmail.com)  
+
