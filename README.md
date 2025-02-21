@@ -6,16 +6,38 @@
 
 ## 🚀 Tech Stack & Tools  
 
-| 🌟 Skill         | ⚡ Technology            |
-|-----------------|------------------------|
-| **Backend**     | Laravel, PHP           |
-| **Frontend**    | HTML, CSS, JavaScript, AJAX |
-| **Database**    | MySQL                  |
-| **APIs**        | RESTful APIs, Postman  |
-| **Security & Auth** | Spatie (Roles & Permissions) |
-| **Data Handling** | Maatwebsite (Excel)  |
-| **Charts & Analytics** | Chart.js        |
-| **Version Control** | Git & GitHub       |
+### 🖥️ **Programming Languages:**  
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+### 🎨 **Frontend Development:**  
+- HTML5 & CSS3  
+- JavaScript & AJAX  
+
+### ⚙️ **Backend Development:**  
+- Laravel (PHP Framework)  
+
+### 📱 **Mobile Development:**  
+- Flutter  
+
+### 🛢 **Database & Data Handling:**  
+- MySQL  
+- Maatwebsite (Excel)  
+
+### 🔒 **Security & Authentication:**  
+- Spatie (Roles & Permissions)  
+
+### 📊 **Analytics & Visualization:**  
+- Chart.js  
+
+### 🛠 **Other Tools:**  
+- Git & GitHub  
+- RESTful APIs & Postman  
+
 
 ## 📌 Projects & Contributions  
 
