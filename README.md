@@ -4,8 +4,10 @@
 
 ## 🌟About Me
 
-Motivated fresh graduate with strong problem-solving skills and a passion for backend development. Seeking 
-an entry-level role to apply my technical knowledge and contribute to building efficient and scalable systems.
+- 🎯 **Motivated fresh graduate** with a strong **problem-solving mindset**  
+- 💻 Passionate about **backend development** and system architecture  
+- 🚀 Seeking an **entry-level role** to apply my skills in **building scalable solutions**  
+
 
 📍 From: Agouza, Giza
 
@@ -38,8 +40,10 @@ an entry-level role to apply my technical knowledge and contribute to building e
 ### [💼 Invoices Management System 🔍](https://github.com/Ezz24Mohamed/Invoices-laraval-project)  
 A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for efficient invoice tracking and management.  
 
-## 📈 GitHub Stats  
-![Ezzeldin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ezz24Mohamed&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezz24Mohamed&layout=compact&theme=radical)
+
 
 
 ## 🔗 Let's Connect!  
