@@ -2,16 +2,17 @@
 
 ## Backend Developer | Laravel Enthusiast | Problem Solver
 
-🌟 Passionate about building efficient and scalable backend solutions using Laravel, MySQL, and modern web technologies. Constantly learning, improving, and exploring new tools to craft seamless applications!
+##🌟 About Me
 
-## 🚀 Tech Stack & Tools  
+Passionate about building efficient and scalable backend solutions using Laravel, MySQL, and modern web technologies. Constantly learning, improving, and exploring new tools to craft seamless applications!
+
+📍 From: Agouza, Giza
+📚 Education: Faculty of Computer Science and Artificial Intelligence, Helwan University (Very Good with Honor, GPA: 3.38/4.0)
 
 ## 🚀 Tech Stack & Tools  
 
 ### 🖥️ **Programming Languages:**  
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk)  
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
