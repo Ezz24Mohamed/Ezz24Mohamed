@@ -17,3 +17,7 @@
 | **Charts & Analytics** | Chart.js        |
 | **Version Control** | Git & GitHub       |
 
+## 📌 Projects & Contributions  
+
+### [📄 Invoices Management System 🔍]([https://github.com/your-repo-link](https://github.com/Ezz24Mohamed/Invoices-laraval-project))  
+A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for efficient invoice tracking and management.  
