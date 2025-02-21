@@ -8,6 +8,7 @@ Motivated fresh graduate with strong problem-solving skills and a passion for ba
 an entry-level role to apply my technical knowledge and contribute to building efficient and scalable systems.
 
 📍 From: Agouza, Giza
+
 📚 Education: Faculty of Computer Science and Artificial Intelligence, Helwan University (Very Good with Honor, GPA: 3.38/4.0)
 
 ## 🚀 Tech Stack & Tools  
@@ -43,11 +44,10 @@ A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for
 
 ## 🔗 Let's Connect!  
 
-📢 **Portfolio:** _Coming Soon..._  
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezz-eldin-mohamed-70b154219/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ezzeldinmohamed025@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201156658134)  
 
 
 
