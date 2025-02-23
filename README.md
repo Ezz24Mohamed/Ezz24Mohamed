@@ -40,7 +40,14 @@
 ## 📌 Projects & Contributions  
 
 ### [💼 Invoices Management System 🔍](https://github.com/Ezz24Mohamed/Invoices-laraval-project)  
-A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for efficient invoice tracking and management.  
+A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for efficient invoice tracking and management. 
+
+### [📝 Task Manager API](https://github.com/YOUR-USERNAME/Task-Manager)  
+A **powerful Laravel API** for managing tasks efficiently! Built with **Laravel 10 & Sanctum**, featuring authentication, CRUD operations, and secure API endpoints.  
+
+🔹 **Tech Stack:** Laravel 10, MySQL, Sanctum  
+🔹 **Features:** Secure authentication, task management, RESTful API  
+🔹 **Setup:** Clone, install dependencies, configure `.env`, and run migrations 
 
 
 ### 🔥 Most Used Languages  
