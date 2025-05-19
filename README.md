@@ -6,8 +6,7 @@
 
 - 🎯 **Motivated fresh graduate** with a strong **problem-solving mindset**  
 - 💻 Passionate about **backend development** and system architecture  
-- 🚀 Seeking an **entry-level role** to apply my skills in **building scalable solutions**  
-- 🔄 Currently working on an **Epic System** to enhance enterprise workflow management
+- 🚀 Currently working on an **Epic System** to enhance enterprise workflow management
 
 📍 From: Agouza, Giza
 
@@ -37,4 +36,29 @@
 ### [💼 Mini CRM API 🔍](https://github.com/Ezz24Mohamed/MINI-CRM)  
 A Laravel-based CRM API with role-based access control, employee and customer management, and action logging. Features authentication, secure APIs, and paginated, resource-formatted responses.
 
-### [💼 Invoices Management System 🔍]()
+### [💼 Invoices Management System 🔍](https://github.com/Ezz24Mohamed/Invoices-laraval-project)  
+A dynamic invoicing platform built with **Laravel**, **AJAX**, and **MySQL** for efficient invoice tracking and management. 
+
+### [📝 Task Manager API 🔍](https://github.com/Ezz24Mohamed/Tasks-Manager)  
+A **powerful Laravel API** for managing tasks efficiently! Built with **Laravel 10 & Sanctum**, featuring authentication, CRUD operations, and secure API endpoints.  
+
+🔹 **Tech Stack:** Laravel 10, MySQL, Sanctum  
+🔹 **Features:** Secure authentication, task management, RESTful API  
+🔹 **Setup:** Clone, install dependencies, configure `.env`, and run migrations  
+
+---
+
+### 🔄 Currently Working On:
+
+- **Epic System:** Developing an enterprise-grade workflow management system focused on scalability, modularity, and business process automation.
+
+---
+
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezz24Mohamed&layout=compact&theme=radical)
+
+## 🔗 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezz-eldin-mohamed-70b154219/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ezzeldinmohamed025@gmail.com)  
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zizo_mohamed_24)
